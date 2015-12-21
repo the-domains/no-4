@@ -1,0 +1,28 @@
+name: No.4
+favicon: null
+layout_spectrum: 0.37118871766142547
+typography_spectrum: 0.7459982903674245
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5228193935472518
+  lightness: 0.5496653532609344
+  saturation: 0.938586875796318
+  rhythmicContrast: 0.8872465004678816
+purpose: []
